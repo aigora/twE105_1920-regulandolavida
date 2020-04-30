@@ -5,8 +5,14 @@ Se trata de un calendario en el cual podemos introducir nuestro ciclo mestrual y
 ## Integrantes del equipo
 
 Irazú Calle del Molino 
+
+
 Andrea Martín Gómez-Rey
+
+
 Regina Gomez Navarro
+
+
 Lorena Escobar Loayza
 
 ## Objetivos del trabajo
