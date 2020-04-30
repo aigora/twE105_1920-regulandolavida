@@ -4,16 +4,16 @@ REGULANDOLAVIDA
 Se trata de un calendario en el cual podemos introducir nuestro ciclo mestrual y calcula nuestro proximo ciclo de ovulacion, también permite introducir estados de animo para controlar nuestra salud.
 ## Integrantes del equipo
 
-Irazú Calle del Molino 
+-Irazú Calle del Molino 
 
 
-Andrea Martín Gómez-Rey
+-Andrea Martín Gómez-Rey
 
 
-Regina Gomez Navarro
+-Regina Gomez Navarro
 
 
-Lorena Escobar Loayza
+-Lorena Escobar Loayza
 
 ## Objetivos del trabajo
 
