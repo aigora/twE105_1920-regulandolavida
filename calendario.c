@@ -104,7 +104,7 @@ if (febrero==29)
 
 semana=((ano-1)%7+ ((ano-1)/4 -(3*((ano-1)/100+1)/4))%7+moduloMes+1%7)%7;
 
-printf("\nDo\tLu\tMar\tMier\tJue\tVier\tSab\n");
+printf("\nLunes\tMartes\tMiercoles\tJueves\tViernes\tSabado\tDomingo\n");
 
 	
 		for(m=0;m<semana;m++)
