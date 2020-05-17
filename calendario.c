@@ -118,6 +118,32 @@ printf("\nLunes\tMartes\tMiercoles\tJueves\tViernes\tSabado\tDomingo\n");
 				printf("%d\t",i);
 		}
 	}
+
+printf("Desea Buscar otra Fecha?\t1=SI 0=NO\t>>> ");
+scanf("%d",&seleccion);
+
+while (seleccion<0 || seleccion>1)
+{
+printf("ERROR, Ingrese 1/0\n");
+printf("Desea Buscar otra Fecha? \t1=SI 0=NO\t>>> ");
+scanf("%d",&seleccion);
 }
+
+if (seleccion == 1)
+{
+printf("\nIngrese Mes: ");
+scanf("%d",&mes);
+
+mes-=1;
+
+printf ("Ingrese Ano:");
+scanf("%d",&ano);
+
+system("clear");
+printf("CALENDARIO");
+
+}
+}
+
 
 
